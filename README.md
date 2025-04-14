@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Engineering and Software Engineering.
 - 🌱 I’m currently learning DSA with C++ and anything microcontroller related.
 - 💞️ I’m looking to collaborate on any software and hardware projects as I am constantly in the proccess of learning new skills!
-- 📫 Reach me @https://www.linkedin.com/in/ryan-ng-7337b932a
+- 📫 Reach me @https://www.linkedin.com/in/ryanngjk
 
 
 <!---
